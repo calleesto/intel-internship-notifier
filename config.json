@@ -1,0 +1,11 @@
+{
+  "company": "Intel",
+  "api_url": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+  "job_base_url": "https://intel.wd1.myworkdayjobs.com/en-US/External",
+  "applied_facets": {
+    "locations": ["1e4a4eb3adf10124b3604375bf811ace"],
+    "jobFamilyGroup": ["dc8bf79476611087d67b36517cf17036"]
+  },
+  "search_text": "",
+  "reminder_after_hours": 2
+}
