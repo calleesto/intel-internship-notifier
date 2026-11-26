@@ -101,7 +101,7 @@
     "posted": "Posted Today",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0289489",
     "first_seen": 1795625080.4800847,
-    "reminded": false
+    "reminded": true
   },
   "JR0289479": {
     "title": "Linux Graphics Virtualization (SR-IOV) Intern",
@@ -109,6 +109,6 @@
     "posted": "Posted Today",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Linux-Graphics-Virtualization--SR-IOV--Intern_JR0289479",
     "first_seen": 1795625080.4800847,
-    "reminded": false
+    "reminded": true
   }
 }
